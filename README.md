@@ -3,7 +3,7 @@ Olá 👋 eu sou o Bruno Vinicus,  seja bem vindo ao meu perfil de desenvolvedor
 
 <div align="center">
   <a href="https://github.com/brunodevtec">
-  <img align="center" height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=brunodevtec&show_icons=true&theme=midnight-purple&hide=contribs,prs,issues&"/>
+  <img align="center" height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=brunodevtec&show_icons=true&theme=midnight-purple&hide=contribs,prs,issues&"/>
 <!--   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevtec&layout=compact&langs_count=7&theme=midnight-purple"/> -->
 </div>
     
