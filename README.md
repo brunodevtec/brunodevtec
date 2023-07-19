@@ -16,6 +16,8 @@
   <a href="https://www.linkedin.com/in/bruno-vinicius-pereira-5988b5266" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 </div>
 
+<br>
+
  ### Main skills:
 <div>
     <img align="center" alt="Js" height="20" width="30" padding="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript
@@ -23,10 +25,19 @@
     <img align="center" alt="CSS" height="20" width="30" padding="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS
 </div>
 
+<br>
 
 ### Studying in this moment:
 
 <p>Análise e Desenvolvimento de Sistemas - FIAP</p>
+
+<br>
+
+### My first Project:
+
+- https://fullpocket.netlify.app
+
+- https://github.com/brunodevtec/My-Fintech-Project.git
 
 <hr>
 
