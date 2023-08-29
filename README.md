@@ -39,6 +39,8 @@
 
 - https://github.com/brunodevtec/My-Fintech-Project.git
 
+- https://github.com/brunodevtec/my-repo-study
+
 <hr>
 
 <div align="center">
