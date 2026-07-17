@@ -1,51 +1,98 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo!;Meu+Nome+é+Bruno+Vinicius+Pereira;E+este+é+o+meu+Perfil+de+Desenvolvedor!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=4682B4&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-vindo!;Meu+nome+é+Bruno+Vinicius;e+este+é+o+meu+perfil+profisssional!" alt="Typing SVG"/>
+</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunodevtec&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Vinicius Pereira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodevtec&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
-</div>
+<h3 align="center">
+💻  • Graduado em Análise e Desenvolvimento de Sistemas • Analista de Sistemas no C6 Bank
+</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brunodevtec&bg_color=0d1117&color=4682B4&line=4682B4&point=4682B4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-<hr>
+# 👨‍💻 Sobre mim
 
-<div align="center"> 
-  <a href = "brunodevtec@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-vinicius-pereira-5988b5266" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-</div>
+Olá! Sou **Bruno Vinicius Pereira**.
 
-<br>
+Atualmente atuo como **Analista de Sistemas no C6 Bank**, contribuindo para soluções tecnológicas voltadas ao setor financeiro.
 
- ### Main skills:
-<div>
-    <img align="center" alt="Js" height="20" width="30" padding="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript
-    <img align="center" alt="HTML" height="20" width="30" padding="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML
-    <img align="center" alt="CSS" height="20" width="30" padding="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS
-</div>
+Sou **graduado em Análise e Desenvolvimento de Sistemas pela FIAP** e busco evoluir continuamente meus conhecimentos em desenvolvimento de software, bancos de dados, observabilidade e arquitetura de sistemas.
 
-<br>
+Tenho interesse especial por desenvolvimento Back-end, Engenharia de Software, Cloud Computing e soluções escaláveis.
 
-### Studying in this moment:
+---
 
-<p>Análise e Desenvolvimento de Sistemas - FIAP</p>
+# 🚀 Tecnologias
 
-<br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,mysql&perline=7"/>
+</p>
 
-### My first Project:
+### 📚 Atualmente estudando
 
-- https://fullpocket.netlify.app
-  
-- https://github.com/brunodevtec/my-repo-study
+- SQL
+- Splunk
+- Grafana
+- Google BigQuery
+- JavaScript
+- HTML5
+- CSS3
+- Git e GitHub
 
-<hr>
+---
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{brunodevtec}/count.svg" /></p> 
-<br>
-</div>
+# 💼 Experiência
 
+🏦 **Analista de Sistemas**  
+**C6 Bank**
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
+- Sustentação e evolução de sistemas críticos.
+- Investigação e resolução de incidentes.
+- Análise de logs e monitoramento de aplicações.
+- Integração entre sistemas.
+- Suporte às operações bancárias.
+- Análise de dados utilizando SQL.
+- Monitoramento utilizando Splunk e Grafana.
+- Consultas e análises em Google BigQuery.
+
+---
+
+# 🚀 Projetos
+
+## 💰 Full Pocket
+
+Aplicação para organização financeira pessoal.
+
+🌐 https://fullpocket.netlify.app
+
+---
+
+## 📘 Repositório de Estudos
+
+Projetos, exercícios e desafios desenvolvidos durante meus estudos.
+
+🔗 https://github.com/brunodevtec/my-repo-study
+
+---
+
+# 📫 Contato
+
+<p align="center">
+
+<a href="mailto:brunodevtec@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bruno-vinicius-pereira-5988b5266/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=brunodevtec&style=for-the-badge&color=4682B4"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
